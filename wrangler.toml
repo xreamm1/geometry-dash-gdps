@@ -1,6 +1,6 @@
 name = "xreamm1-geometry-dash-gdps"
 main = "src/index.js"
-compatibility_date = "2026-11-17"
+compatibility_date = "2026-11-16"
 workers_dev = true
 
 [[d1_databases]]

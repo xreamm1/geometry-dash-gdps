@@ -1,0 +1,14 @@
+name = "xreamm1-geometry-dash-gdps"
+main = "src/index.js"
+compatibility_date = "2026-11-17"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "xreamm1-geometry-dash-gdps"
+database_id = "00000000-0000-0000-0000-000000000001"
+migrations_dir = "migrations"
+
+[vars]
+ALLOWED_ORIGINS = "https://xreamm1.github.io,http://localhost:8080,http://127.0.0.1:8080"
+REGISTRATION_OPEN = "false"

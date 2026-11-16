@@ -2,11 +2,12 @@ name = "xreamm1-geometry-dash-gdps"
 main = "src/index.js"
 compatibility_date = "2026-11-16"
 workers_dev = true
+account_id = "82ed74a901ec9e7340a16ad9d094f3db"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "xreamm1-geometry-dash-gdps"
-database_id = "00000000-0000-0000-0000-000000000001"
+database_id = "1947887e-a33c-42cf-8a4d-dd5f10c79057"
 migrations_dir = "migrations"
 
 [vars]
